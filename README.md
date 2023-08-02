@@ -14,7 +14,7 @@ Este proyecto es parte del bootcamp de Soy Henry.
 ## Enlaces
 - [API de Rick y Morty](https://rickandmortyapi.com/)
 - [Link del Sitio Web](https://rickandmortyapi.com/)
-[![Mi perfil de LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/thiago-zambonini-2a279a239/)
+- [Mi perfil de LinkedIn](https://www.linkedin.com/in/thiago-zambonini-2a279a239/)
 
 ## INGLES
 
@@ -32,4 +32,4 @@ This project is part of the Soy Henry bootcamp.
 ## Links
 - [Rick and Morty API](https://rickandmortyapi.com/)
 - [Website Link](https://rickandmortyapi.com/)
-[[My LinkedIn profile](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/thiago-zambonini-2a279a239/)
+- [My Linkedin Profile](https://www.linkedin.com/in/thiago-zambonini-2a279a239/)
